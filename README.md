@@ -56,8 +56,8 @@ The materials presented in this profile and repository are for educational and p
 
 ---
 
-### Connect With Me
+## 🌐 Connect With Me
 
-[LinkedIn](YOUR-LINKEDIN-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Palak%20Naz%20Memon-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ms-palak-naz-memon-126a82433/)
 
-[GitHub](https://github.com/pnazmemon-cpu)
+📧 **Email:** palaknaz89@gmail.com
